@@ -1,0 +1,13 @@
+name: manhattans_future_greenery
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - numpy=1.23.2
+  - pandas=1.4.3
+  - geopandas=0.11.1
+  - plotly=5.10.0
+  - stylecloud
+  - json
+  - notebook
