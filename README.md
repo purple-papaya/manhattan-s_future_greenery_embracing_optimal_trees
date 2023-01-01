@@ -2,6 +2,8 @@
 
 With 8.6 million people calling it home, Manhattan is one of the most densely populated places in the world. This means that nature can often take a backseat to the hustle and bustle of city life. However, maintaining a healthy balance between urban life and nature is essential for keeping any city livable. So, which tree species should Manhattan plant? Let’s explore this question further.
 
+![nahattan_2](pictures/manhattan_2.png)
+
 Let’s take a look at the tree species in Manhattan, their characteristics, benefits, health indicators and location, both with respect to the curb and the neighborhoods. The urban design team believes tree size (using trunk diameter as a proxy for size) and health are the most desirable characteristics of city trees. The city would like to learn more about which tree species are the best choice to plant on the streets of Manhattan.
 
 The aim of this exploration is to:
